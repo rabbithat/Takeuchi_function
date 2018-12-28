@@ -1,5 +1,5 @@
 # Takeuchi_function
-Used in benchmarking uLisp.  Here translated to mecrisp-stellaris Forth for a comparison benchmark
+Used in benchmarking uLisp.  Here translated to mecrisp-stellaris Forth RA for a comparison benchmark
 
 
 On an nRF52840 runnning uLisp, the Takeuchi-function
