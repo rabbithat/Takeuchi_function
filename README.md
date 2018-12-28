@@ -10,4 +10,4 @@ On an nRF52840 running mecrisp-stellaris Forth RA, the same function with the sa
 
 For version 2, I re-wrote the Takeuchi function so as not to use the roll word.  This reduced execution time on MS-Forth 2.4.7 RA to 102ms.  This also allowed me to try running it on MS-Forth 2.4.6 (the non-RA version), and it executed in 132ms.  So, although not a perfect comparison, this appears to demonstrate that the RA version does indeed run faster.
 
-So, with version 2, MS-Forth RA runs the Takeuchi benchmark nearly 80x faster than uLisp does.
+So, with version 2, MS-Forth 2.4.7 RA runs the Takeuchi benchmark nearly 80x faster than uLisp does.
